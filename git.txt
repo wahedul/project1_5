@@ -1,0 +1,9 @@
+git init
+
+git add -A
+git commit -m 'message'
+git remote add origin https://github.com/wahedul/udacity.git
+git push -u origin master
+
+git remote add origin https://github.com/wahedul/Project1_3.git
+git push -u origin maste
